@@ -15,18 +15,6 @@ Progetto accademico sviluppato nell’ambito del corso di **Basi di Dati** (a.a.
 - `datagrip.pdf` – PDF contenente il modello E-R creato in DataGrip
 - `README.md` – Questo file
 
-## 🏗 Struttura del Modello
-
-Le entità principali includono:
-- **Gioco** (plancia, caselle, icone, podi)
-- **Sfida** (sincrona/asincrona, squadre partecipanti, data/orario)
-- **Squadra** (nome, icona, membri)
-- **Utente** (nickname, email, ruoli)
-- **Casella** (tipologia, coordinate, contenuto)
-- **Quiz** e **Risposte** (punteggi, immagini opzionali)
-- **Task** (consegna file, validazione manuale)
-- **Dado**, **Aiuti**, **Turni** e **Punteggi**
-
 ## 🧪 Requisiti
 
 Per eseguire lo script SQL è sufficiente un qualsiasi DBMS relazionale come:
